@@ -1,0 +1,7 @@
+#!/bin/bash  
+echo "Wait while the Nukr API is loading"
+cd nubank-social-network-api
+lein do clean, ring uberjar
+java -jar target/server.jar
+echo "URL Base is: http://localhost:3000/nukr/api/v1"
+echo "For more information access the follow URL: http://localhost:3000/index.html"

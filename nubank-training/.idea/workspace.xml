@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe271c5f-7feb-45f5-9907-897d8263dcdd" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="core.clj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/nubank_training/core.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core_test.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/nubank_training/core_test.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/nubank_training/core_test.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="701" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nubank-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nubank-training" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nubank-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nubank-training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nubank-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nubank-training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nubank_training" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nubank-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nubank-training" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nubank-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nubank-training" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="nubank_training" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nubank-robots" />
+    <property name="settings.editor.selected.configurable" value="Leiningen" />
+  </component>
+  <component name="ReplState" timestamp="1536357334473">{:repl-history {:ide [], :local [{:command &quot;(seco)&quot;, :offset 5, :ns &quot;nubank-training.core&quot;} {:command &quot;(second '(1 2 3 4))&quot;, :offset 17, :ns &quot;nubank-training.core&quot;} {:command &quot;(second '(1 0 3 4))&quot;, :offset 13, :ns &quot;nubank-training.core&quot;} {:command &quot;(second (reverse '(1 0 3 4)))&quot;, :offset 29, :ns &quot;nubank-training.core&quot;} {:command &quot;(reverse '(1 0 3 4))&quot;, :offset 20, :ns &quot;nubank-training.core&quot;} {:command &quot;(if nil 1 0)&quot;, :offset 11, :ns &quot;nubank-training.core&quot;} {:command &quot;(if nil 0 1)&quot;, :offset 11, :ns &quot;nubank-training.core&quot;} {:command &quot;(if false 0 1)&quot;, :offset 14, :ns &quot;nubank-training.core&quot;} {:command &quot;(if-not false 0 1)&quot;, :offset 7, :ns &quot;nubank-training.core&quot;} {:command &quot;(if-not false 1 0)&quot;, :offset 18, :ns &quot;nubank-training.core&quot;} {:command &quot;(join [1 2 3] [3 4])&quot;, :offset 20, :ns &quot;nubank-training.core&quot;} {:command &quot;(doc join)&quot;, :offset 9, :ns &quot;nubank-training.core&quot;} {:command &quot;(doc group)&quot;, :offset 10, :ns &quot;nubank-training.core&quot;} {:command &quot;(doc group-by)&quot;, :offset 13, :ns &quot;nubank-training.core&quot;} {:command &quot;(concat [1 2 3] [3 4])&quot;, :offset 20, :ns &quot;nubank-training.core&quot;} {:command &quot;(into [1 2 3] [3 4])&quot;, :offset 0, :ns &quot;nubank-training.core&quot;} {:command &quot;#(difference #{1 2 3 4 5 6} #{1 3 5 7})&quot;, :offset 38, :ns &quot;nubank-training.core&quot;} {:command &quot;c&quot;, :offset 1} {:command &quot;#(clojure.set/difference #{1 2 3 4 5 6} #{1 3 5 7})&quot;, :offset 51, :ns &quot;nubank-training.core&quot;} {:command &quot;(clojure.set/difference #{1 2 3 4 5 6} #{1 3 5 7})&quot;, :offset 50, :ns &quot;nubank-training.core&quot;} {:command &quot;(clojure.set/union )&quot;, :offset 0, :ns &quot;nubank-training.core&quot;} {:command &quot;(def cj1 #{1 2 3 4 5 6})&quot;, :offset 24, :ns &quot;nubank-training.core&quot;} {:command &quot;(def cj2 #{1 3 5 7})&quot;, :offset 20, :ns &quot;nubank-training.core&quot;} {:command &quot;(clojure.set/union cj1 cj2)&quot;, :offset 27, :ns &quot;nubank-training.core&quot;} {:command &quot;(sort (clojure.set/union cj1 cj2))&quot;, :offset 34, :ns &quot;nubank-training.core&quot;} {:command &quot;(clojure.set/intersection cj1 cj2)&quot;, :offset 34, :ns &quot;nubank-training.core&quot;} {:command &quot;(clojure.set/union (clojure.set/difference cj1 cj2) (clojure.set/difference cj2 cj1))&quot;, :offset 85, :ns &quot;nubank-training.core&quot;} {:command &quot;(sort (clojure.set/union (clojure.set/difference cj1 cj2) (clojure.set/difference cj2 cj1)))&quot;, :offset 92, :ns &quot;nubank-training.core&quot;} {:command &quot;(= (sort (clojure.set/union (clojure.set/difference cj1 cj2) (clojure.set/difference cj2 cj1))) #{2 4 6 7})&quot;, :offset 107, :ns &quot;nubank-training.core&quot;} {:command &quot;(= (into #{} (sort (clojure.set/union (clojure.set/difference cj1 cj2) (clojure.set/difference cj2 cj1))) #{2 4 6 7}))&quot;, :offset 118, :ns &quot;nubank-training.core&quot;} {:command &quot;(into { } (sort (clojure.set/union (clojure.set/difference cj1 cj2) (clojure.set/difference cj2 cj1))))&quot;, :offset 0, :ns &quot;nubank-training.core&quot;} {:command &quot;(into [] [1 2])&quot;, :offset 13, :ns &quot;nubank-training.core&quot;} {:command &quot;(into {} [1 2])&quot;, :offset 8, :ns &quot;nubank-training.core&quot;} {:command &quot;(into #{} [1 2])&quot;, :offset 7, :ns &quot;nubank-training.core&quot;} {:command &quot;(into #{ } (sort (clojure.set/union (clojure.set/difference cj1 cj2) (clojure.set/difference cj2 cj1))))&quot;, :offset 0, :ns &quot;nubank-training.core&quot;} {:command &quot;(into (sorted-set) (clojure.set/union (clojure.set/difference cj1 cj2) (clojure.set/difference cj2 cj1)))&quot;, :offset 105, :ns &quot;nubank-training.core&quot;} {:command &quot;(= (into (sorted-set) (clojure.set/union (clojure.set/difference cj1 cj2) (clojure.set/difference cj2 cj1))) #{2 4 6 7})&quot;, :offset 119, :ns &quot;nubank-training.core&quot;} {:command &quot;(for [x [1 2 4 5]]\n  (println x)\n  (println \&quot;terminou\&quot;))&quot;, :offset 53, :ns &quot;nubank-training.core&quot;} {:command &quot;(for [x [1 2 4 5]]\n  (+ (inc x) x))&quot;, :offset 32, :ns &quot;nubank-training.core&quot;} {:command &quot;#(map repeat [1 2 3] 2)&quot;, :offset 23, :ns &quot;nubank-training.core&quot;} {:command &quot;#(repeat 5 2)&quot;, :offset 10, :ns &quot;nubank-training.core&quot;} {:command &quot;#(map + [1 2 3])&quot;, :offset 15, :ns &quot;nubank-training.core&quot;} {:command &quot;#(map inc [1 2 3])&quot;, :offset 18, :ns &quot;nubank-training.core&quot;} {:command &quot;(for [x [1 2 4 5]]\n  (println x))&quot;, :offset 33, :ns &quot;nubank-training.core&quot;} {:command &quot;(inc 2)&quot;, :offset 6, :ns &quot;nubank-training.core&quot;} {:command &quot;(inc [2 3])&quot;, :offset 10, :ns &quot;nubank-training.core&quot;} {:command &quot;(map inc [2 3])&quot;, :offset 15, :ns &quot;nubank-training.core&quot;} {:command &quot;(count 2)&quot;, :offset 8, :ns &quot;nubank-training.core&quot;} {:command &quot;(map #(repeat %2 %1) [1 2])&quot;, :offset 27, :ns &quot;nubank-training.core&quot;} {:command &quot;(map #(repeat 2 %) [2 4 6])&quot;, :offset 27, :ns &quot;nubank-training.core&quot;} {:command &quot;(conj [] (reduce repeat 2 [1 2 3]))&quot;, :offset 35, :ns &quot;nubank-training.core&quot;} {:command &quot;(map repeat 2 [1 3 5])&quot;, :offset 22, :ns &quot;nubank-training.core&quot;} {:command &quot;(repeat 2 3)&quot;, :offset 12, :ns &quot;nubank-training.core&quot;} {:command &quot;(map repeat 2 [1 2 3])&quot;, :offset 22, :ns &quot;nubank-training.core&quot;} {:command &quot;(#(map (fn [%1] (repeat 2 num)) [1 2 3]))&quot;, :offset 12} {:command &quot;(reduce #(repeat %2 %1) [4])&quot;, :offset 28, :ns &quot;nubank-training.core&quot;} {:command &quot;(repeat 3 9)&quot;, :offset 12, :ns &quot;nubank-training.core&quot;} {:command &quot;(map #(repeat 2 %) [1 2 3])&quot;, :offset 27, :ns &quot;nubank-training.core&quot;} {:command &quot;(concat [] (map #(repeat 2 %) [1 2 3]))&quot;, :offset 39, :ns &quot;nubank-training.core&quot;} {:command &quot;(concat '()) (map #(repeat 2 %) [1 2 3]))&quot;, :offset 41, :ns &quot;nubank-training.core&quot;} {:command &quot;(concat '() (map #(repeat 2 %) [1 2 3]))&quot;, :offset 12, :ns &quot;nubank-training.core&quot;} {:command &quot;(repeatedly 5 (fn [] (println \&quot;hi!\&quot;)) )&quot;, :offset 39, :ns &quot;nubank-training.core&quot;} {:command &quot;(repeatedly 2 (fn [] (9)) )&quot;, :offset 27, :ns &quot;nubank-training.core&quot;} {:command &quot;(repeatedly 2 (fn [] (conj [] 9)))&quot;, :offset 34, :ns &quot;nubank-training.core&quot;} {:command &quot;(into [] (repeatedly 2 (fn [] (conj [] 9))))&quot;, :offset 44, :ns &quot;nubank-training.core&quot;} {:command &quot;(into (repeat 2 3) (repeat 2 9))&quot;, :offset 32, :ns &quot;nubank-training.core&quot;} {:command &quot;(into [] (repeat 2 9))&quot;, :offset 22, :ns &quot;nubank-training.core&quot;} {:command &quot;(map )&quot;, :offset 5} {:command &quot;(def collection [1 2 3])&quot;, :offset 24, :ns &quot;nubank-training.core&quot;} {:command &quot;(map #(repeat 2 %) collection)&quot;, :offset 30, :ns &quot;nubank-training.core&quot;} {:command &quot;(map #(repeat %2 %1) collection)&quot;, :offset 32, :ns &quot;nubank-training.core&quot;} {:command &quot;(into [] (map #(repeat 2 %) collection))&quot;, :offset 40, :ns &quot;nubank-training.core&quot;} {:command &quot;(concat (map #(repeat 2 %) collection))&quot;, :offset 39, :ns &quot;nubank-training.core&quot;} {:command &quot;(repeat 2 9)&quot;, :offset 11, :ns &quot;nubank-training.core&quot;} {:command &quot;(for [x [1 2 3]]\n  (repeat 2 x))&quot;, :offset 32, :ns &quot;nubank-training.core&quot;} {:command &quot;(for [x [1 2 3]]\n  :let [y (repeat 2 x)]\n  y)&quot;, :offset 28, :ns &quot;nubank-training.core&quot;} {:command &quot;(for [x [1 2 3]\n  :let [y (repeat 2 x)]]\n  y)&quot;, :offset 45, :ns &quot;nubank-training.core&quot;} {:command &quot;(for [x [1 2 3]\n  :let [y (conj y (repeat 2 x))]]\n  y)&quot;, :offset 49, :ns &quot;nubank-training.core&quot;} {:command &quot;(#(println (str \&quot;Hello, \&quot; % \&quot;!\&quot;)) \&quot;Dave\&quot;)&quot;, :offset 40, :ns &quot;nubank-training.core&quot;} {:command &quot;(partial + 5)&quot;, :offset 12, :ns &quot;nubank-training.core&quot;} {:command &quot;((partial + 5) 3)&quot;, :offset 17, :ns &quot;nubank-training.core&quot;} {:command &quot;((partial + 5) -1)&quot;, :offset 17, :ns &quot;nubank-training.core&quot;} {:command &quot;(rem 4 4)&quot;, :offset 6, :ns &quot;nubank-training.core&quot;} {:command &quot;(rem 5 4)&quot;, :offset 6, :ns &quot;nubank-training.core&quot;} {:command &quot;(doc rem)&quot;, :offset 8, :ns &quot;nubank-training.core&quot;} {:command &quot;(rem 1 4)&quot;, :offset 6, :ns &quot;nubank-training.core&quot;} {:command &quot;(rem 2 4)&quot;, :offset 6, :ns &quot;nubank-training.core&quot;} {:command &quot;(rem 3 4)&quot;, :offset 6, :ns &quot;nubank-training.core&quot;} {:command &quot;(map #(rem % 4) (range 40))&quot;, :offset 27, :ns &quot;nubank-training.core&quot;} {:command &quot;(filter #(= 1 %) (map #(rem % 4) (range 40)))&quot;, :offset 45, :ns &quot;nubank-training.core&quot;} {:command &quot;(filter #(when (= 1 (rem % 4))) (range 40))&quot;, :offset 43, :ns &quot;nubank-training.core&quot;} {:command &quot;(filter #(= 1 (rem % 4)) (range 40))&quot;, :offset 23, :ns &quot;nubank-training.core&quot;} {:command &quot;(hash-map :a 10, :b 20, :c 30 :b)&quot;, :offset 33, :ns &quot;nubank-training.core&quot;} {:command &quot;((hash-map :a 10, :b 20, :c 30 :b))&quot;, :offset 1, :ns &quot;nubank-training.core&quot;} {:command &quot;((hash-map :a 10, :b 20, :c 30) :b)&quot;, :offset 35, :ns &quot;nubank-training.core&quot;} {:command &quot;((vector 1 2 3 4 5) 1)&quot;, :offset 21, :ns &quot;nubank-training.core&quot;} {:command &quot;(:b {:a 10, :b 20, :c 30})&quot;, :offset 4, :ns &quot;nubank-training.core&quot;} {:command &quot;#(when (not-empty? %1 %2) (+ %1 %2))&quot;, :offset 36, :ns &quot;nubank-training.core&quot;} {:command &quot;#(when (empty? %1 %2) (+ %1 %2))&quot;, :offset 8, :ns &quot;nubank-training.core&quot;} {:command &quot;(count [])&quot;, :offset 9, :ns &quot;nubank-training.core&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="REPL for nubank-training" type="ClojureREPL" factoryName="Local" temporary="true">
+      <module name="nubank-training" />
+      <setting name="replType" value="1" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure REPL.REPL for nubank-training" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe271c5f-7feb-45f5-9907-897d8263dcdd" name="Default" comment="" />
+      <created>1536329765015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536329765015</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="-1" width="1372" height="745" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="REPL" order="3" sideWeight="0.500813" side_tool="true" weight="0.39848486" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3284553" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Leiningen" order="3" sideWeight="0.499187" weight="0.32954547" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17878787" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/nubank_training/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/nubank_training/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nubank_training/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/nubank_training/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nubank_training/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/nubank_training/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/nubank_training/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nubank_training/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

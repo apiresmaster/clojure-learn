@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4183891-9438-44c9-a80d-3ec350b07f1b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="domain.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hackynews/domain.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="28" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project.clj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="domain_test.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/hackynews/domain_test.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="48" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="5" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Namespace" />
+        <option value="Clojure Test Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/test/hackynews/domain_test.clj" />
+        <option value="$PROJECT_DIR$/src/hackynews/domain.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="701" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hackynews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackynews" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackynews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackynews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackynews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackynews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hackynews" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackynews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackynews" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackynews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackynews" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="hackynews" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackynews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="cursive.last.file.extension./home/apiresmaster/desenvolvimento/clojure/hackynews/src" value="clj" />
+    <property name="cursive.last.file.extension./home/apiresmaster/desenvolvimento/clojure/hackynews/test" value="clj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ReplState" timestamp="1537225482742">{:repl-history {:ide [], :local [{:command &quot;(s/valid ::profile {})&quot;, :offset 21, :ns &quot;hackynews.core&quot;} {:command &quot;(s/valid? ::name \&quot;\&quot;)&quot;, :offset 19, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/valid? ::profile :name)&quot;, :offset 26, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/valid? ::date (Date.))&quot;, :offset 25, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/conform ::suit :club)&quot;, :offset 24, :ns &quot;hackynews.domain&quot;} {:command &quot;(doc ::profile)&quot;, :offset 14, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/valid? ::profile {:name \&quot;Pires\&quot;\n                     :nickname \&quot;apiresmaster\&quot;\n                     :birthdate \&quot;1980\&quot;\n                     ::genre \&quot;male\&quot;})&quot;, :offset 143, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/valid? ::profile {::name \&quot;Pires\&quot;\n                     ::nickname \&quot;apiresmaster\&quot;\n                     ::birthdate \&quot;1980\&quot;\n                     ::genre \&quot;male\&quot;})&quot;, :offset 146, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/valid? ::profile {:name \&quot;Pires\&quot;\n                     :nickname \&quot;apiresmaster\&quot;\n                     :birthdate \&quot;1980\&quot;})&quot;, :offset 119, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/explay ::profile {:name \&quot;Pires\&quot;\n                     :nickname \&quot;apiresmaster\&quot;\n                     :birthdate \&quot;1980\&quot;\n                     :genre \&quot;male\&quot;})&quot;, :offset 9, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/explain ::profile {:name \&quot;Pires\&quot;\n                     :nickname \&quot;apiresmaster\&quot;\n                     :birthdate \&quot;1980\&quot;\n                     :genre \&quot;male\&quot;})&quot;, :offset 10, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/explain ::profile {:name \&quot;Pires\&quot;\n                     :nickname \&quot;apiresmaster\&quot;\n                     :birthdate \&quot;1980\&quot;})&quot;, :offset 120, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/conform ::profile {:nickname \&quot;apiresmaster\&quot;\n                     :birthdate \&quot;1980\&quot;\n                     :genre \&quot;male\&quot;})&quot;, :offset 22, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/conform :profile {:name \&quot;Pires\&quot;\n                     :nickname \&quot;apiresmaster\&quot;\n                     :birthdate \&quot;1980\&quot;\n                     :genre \&quot;male\&quot;})&quot;, :offset 11, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/conform ::profile {:name \&quot;Pires\&quot;\n                     :nickname \&quot;apiresmaster\&quot;\n                     :birthdate \&quot;1980\&quot;\n                     :genre \&quot;male\&quot;})&quot;, :offset 10, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/valid? :profile {:name \&quot;Pires\&quot;\n                     :nickname \&quot;apiresmaster\&quot;\n                     :birthdate \&quot;1980\&quot;\n                     :genre \&quot;male\&quot;})&quot;, :offset 9, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/valid? ::profile {:name \&quot;Pires\&quot;\n                     :nickname \&quot;apiresmaster\&quot;\n                     :birthdate \&quot;1980\&quot;\n                     :genre \&quot;male\&quot;})&quot;, :offset 9, :ns &quot;hackynews.domain&quot;} {:command &quot;(defn ranged-rand\n  \&quot;Returns random int in range start &lt;= rand &lt; end\&quot;\n  [start end]\n  (+ start (long (rand (- end start)))))&quot;, :offset 124, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/fdef ranged-rand\n        :args (s/and (s/cat :start int? :end int?)\n                     #(&lt; (:start %) (:end %)))\n        :ret int?\n        :fn (s/and #(&gt;= (:ret %) (-&gt; % :args :start))\n                   #(&lt; (:ret %) (-&gt; % :args :end))))&quot;, :offset 242, :ns &quot;hackynews.domain&quot;} {:command &quot;(defn ranged-rand\n  \&quot;Returns random int in range start &lt;= rand &lt; end\&quot;\n  [start end]\n  (100))&quot;, :offset 91, :ns &quot;hackynews.domain&quot;} {:command &quot;(ranged-rand 1 100)&quot;, :offset 18, :ns &quot;hackynews.domain&quot;} {:command &quot;(ranged-rand 1 1000)&quot;, :offset 19, :ns &quot;hackynews.domain&quot;} {:command &quot;(defn ranged-rand\n  \&quot;Returns random int in range start &lt;= rand &lt; end\&quot;\n  [start end]\n  (+ start end))&quot;, :offset 98, :ns &quot;hackynews.domain&quot;} {:command &quot;(ranged-rand 10 1)&quot;, :offset 17, :ns &quot;hackynews.domain&quot;} {:command &quot;(ranged-rand 100 1)&quot;, :offset 16, :ns &quot;hackynews.domain&quot;} {:command &quot;(defn ranged-rand\n  \&quot;Returns random int in range start &lt;= rand &lt; end\&quot;\n  [start end]\n  (+ start start))&quot;, :offset 100, :ns &quot;hackynews.domain&quot;} {:command &quot;(ranged-rand 1000 1)&quot;, :offset 16, :ns &quot;hackynews.domain&quot;} {:command &quot;((adder 2))&quot;, :offset 11, :ns &quot;hackynews.domain&quot;} {:command &quot;((adder 2 2))&quot;, :offset 11, :ns &quot;hackynews.domain&quot;} {:command &quot;(+ 1 (adder 2))&quot;, :offset 5, :ns &quot;hackynews.domain&quot;} {:command &quot;(+ 2 (adder 2))&quot;, :offset 4, :ns &quot;hackynews.domain&quot;} {:command &quot;(adder 2)&quot;, :offset 9, :ns &quot;hackynews.domain&quot;} {:command &quot;(defn adder [x] #(+ x %))&quot;, :offset 25, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/fdef adder\n        :args (s/cat :x number?)\n        :ret (s/fspec :args (s/cat :y number?)\n                      :ret number?)\n        :fn #(= (-&gt; % :args :x) ((:ret %) 0)))&quot;, :offset 176, :ns &quot;hackynews.domain&quot;} {:command &quot;(gen/generate)&quot;, :offset 13} {:command &quot;(gen/sample (s/gen string?))&quot;, :offset 28, :ns &quot;hackynews.core&quot;} {:command &quot;(gen/generate (s/gen int?))&quot;, :offset 27, :ns &quot;hackynews.core&quot;} {:command &quot;(ranged-rand 1 10)&quot;, :offset 17, :ns &quot;hackynews.domain&quot;} {:command &quot;(doc ranged-rand)&quot;, :offset 17, :ns &quot;hackynews.domain&quot;} {:command &quot;(5 -1)&quot;, :offset 5, :ns &quot;hackynews.domain&quot;} {:command &quot;(5 2)&quot;, :offset 4, :ns &quot;hackynews.domain&quot;} {:command &quot;(5 3)&quot;, :offset 4, :ns &quot;hackynews.domain&quot;} {:command &quot;(5 4)&quot;, :offset 4, :ns &quot;hackynews.domain&quot;} {:command &quot;(5 5)&quot;, :offset 4, :ns &quot;hackynews.domain&quot;} {:command &quot;(5 6)&quot;, :offset 4, :ns &quot;hackynews.domain&quot;} {:command &quot;(5 7)&quot;, :offset 4, :ns &quot;hackynews.domain&quot;} {:command &quot;(5 8)&quot;, :offset 4, :ns &quot;hackynews.domain&quot;} {:command &quot;(5 9)&quot;, :offset 4, :ns &quot;hackynews.domain&quot;} {:command &quot;(1 9)&quot;, :offset 2, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/exercise-fn `ranged-rand)&quot;, :offset 27, :ns &quot;hackynews.domain&quot;} {:command &quot;(ranged-rand 21 5)&quot;, :offset 17, :ns &quot;hackynews.domain&quot;} {:command &quot;(ranged-rand 5 21)&quot;, :offset 17, :ns &quot;hackynews.domain&quot;} {:command &quot;(stest/instrument ranged-rand)&quot;, :offset 18, :ns &quot;hackynews.domain-test&quot;} {:command &quot;(stest/instrument `ranged-rand)&quot;, :offset 30, :ns &quot;hackynews.domain-test&quot;} {:command &quot;(stest/instrument `domain/ranged-rand)&quot;, :offset 26, :ns &quot;hackynews.domain-test&quot;} {:command &quot;(s/exercise-fn `domain/ranged-rand)&quot;, :offset 23, :ns &quot;hackynews.domain-test&quot;} {:command &quot;(domain/ranged-rand 0 1)&quot;, :offset 23, :ns &quot;hackynews.domain-test&quot;} {:command &quot;(domain/ranged-rand -7 1)&quot;, :offset 22, :ns &quot;hackynews.domain-test&quot;} {:command &quot;(domain/ranged-rand 8 5)&quot;, :offset 20, :ns &quot;hackynews.domain-test&quot;} {:command &quot;(domain/ranged-rand 5 5)&quot;, :offset 21, :ns &quot;hackynews.domain-test&quot;} {:command &quot;(domain/ranged-rand 6 5)&quot;, :offset 21, :ns &quot;hackynews.domain-test&quot;} {:command &quot;(ranged-rand 6 5)&quot;, :offset 17, :ns &quot;hackynews.domain&quot;} {:command &quot;(stest/uninstrument `ranged-rand)&quot;, :offset 9, :ns &quot;hackynews.domain&quot;} {:command &quot;(stest/uninstrument `domain/ranged-rand)&quot;, :offset 28, :ns &quot;hackynews.domain-test&quot;} {:command &quot;(stest/check 'domain/ranged-rand)&quot;, :offset 32, :ns &quot;hackynews.domain-test&quot;} {:command &quot;(stest/instrument `domain/invoke-service {:stub #{`invoke-service}})&quot;, :offset 26, :ns &quot;hackynews.domain-test&quot;} {:command &quot;(domain/invoke-service nil {::query \&quot;test\&quot;})&quot;, :offset 44, :ns &quot;hackynews.domain-test&quot;} {:command &quot;(stest/summarize-results (stest/check `run-query))&quot;, :offset 50, :ns &quot;hackynews.domain&quot;} {:command &quot;(invoke-service nil \&quot;\&quot; \&quot;\&quot;)&quot;, :offset 24, :ns &quot;hackynews.domain&quot;} {:command &quot;(invoke-service nil \&quot;\&quot; {:})&quot;, :offset 25} {:command &quot;(invoke-service nil {:query \&quot;test\&quot;})&quot;, :offset 23, :ns &quot;hackynews.domain&quot;} {:command &quot;(invoke-service \&quot;\&quot; {::query \&quot;test\&quot;})&quot;, :offset 15, :ns &quot;hackynews.domain&quot;} {:command &quot;(class (invoke-service nil {::query \&quot;test\&quot;}))&quot;, :offset 45, :ns &quot;hackynews.domain&quot;} {:command &quot;(invoke-connect-profile nil {::target-id \&quot;test\&quot;})&quot;, :offset 49} {:command &quot;(invoke-connect-profile nil)&quot;, :offset 27, :ns &quot;hackynews.domain&quot;} {:command &quot;(invoke-connect-profile {{::id 12 ::target-id 22}})&quot;, :offset 50, :ns &quot;hackynews.domain&quot;} {:command &quot;(invoke-connect-profile {::id 12 ::target-id 22})&quot;, :offset 49, :ns &quot;hackynews.domain&quot;} {:command &quot;(invoke-connect-profile {{::id 12} {::target-id 22}})&quot;, :offset 52, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/exercise-fn 'invoke-service)&quot;, :offset 30, :ns &quot;hackynews.domain&quot;} {:command &quot;(stest/instrument `invoke-service {:stub #{`invoke-service}})&quot;, :offset 61, :ns &quot;hackynews.domain&quot;} {:command &quot;(invoke-service nil {::query \&quot;test\&quot;})&quot;, :offset 37, :ns &quot;hackynews.domain&quot;} {:command &quot;(invoke-connect-profile {::id 12} {::target-id 22})&quot;, :offset 24, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/exercise-fn 'invoke-connect-profile)&quot;, :offset 38, :ns &quot;hackynews.domain&quot;} {:command &quot;(invoke-connect-profile {::id 1 ::target-id 22})&quot;, :offset 46, :ns &quot;hackynews.domain&quot;} {:command &quot;(invoke-connect-profile {:ids 1 :target-id 22})&quot;, :offset 29, :ns &quot;hackynews.domain&quot;} {:command &quot;(invoke-connect-profile {:id 1 [{:target-id 22}]})&quot;, :offset 49, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/valid? ::target-id-list [])&quot;, :offset 29, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/valid? ::target-id-list [{}])&quot;, :offset 29, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/valid? ::target-id-list [{:id :target-id}])&quot;, :offset 43, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/valid? ::target-id-list [{:target-id}])&quot;, :offset 29, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/valid? ::target-id-list [{:id}])&quot;, :offset 30, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/valid? ::target-id-list [{:target-id :id }])&quot;, :offset 44, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/valid? ::target-id-list {{:target-id 3}})&quot;, :offset 28, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/valid? ::target-id-list {:id {:target-id 3}})&quot;, :offset 32, :ns &quot;hackynews.domain&quot;} {:command &quot;(s/valid? ::target-id-list [{:target-id 3}])&quot;, :offset 44, :ns &quot;hackynews.domain&quot;} {:command &quot;(stest/instrument `invoke-connect-profile {:stub #{`invoke-connect-profile}})&quot;, :offset 41, :ns &quot;hackynews.domain&quot;} {:command &quot;(invoke-connect-profile {:id 1 :target-id 22})&quot;, :offset 44, :ns &quot;hackynews.domain&quot;} {:command &quot;(invoke-connect-profile {:id 1})&quot;, :offset 30, :ns &quot;hackynews.domain&quot;} {:command &quot;(invoke-connect-profile {:id 1 :target-id \&quot;\&quot;})&quot;, :offset 43, :ns &quot;hackynews.domain&quot;} {:command &quot;(invoke-connect-profile {:id 1 :target-id 33})&quot;, :offset 44, :ns &quot;hackynews.domain&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Spec Validate" type="ClojureREPL" factoryName="Local">
+      <module name="hackynews" />
+      <setting name="replType" value="1" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4183891-9438-44c9-a80d-3ec350b07f1b" name="Default" comment="" />
+      <created>1537187563340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537187563340</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="-1" width="1372" height="745" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="REPL" sideWeight="0.50121063" side_tool="true" weight="0.35757574" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3284553" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="right" id="Leiningen" sideWeight="0.49878934" weight="0.32954547" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13030303" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/hackynews/core.clj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/hackynews/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/hackynews/domain_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="48" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackynews/domain.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
